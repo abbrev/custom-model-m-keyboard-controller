@@ -1,0 +1,245 @@
+Bottom (copper side):
+
+       20 19 18 17 16 15 14 13 12 11 10  9  8  7  6  5  4  3  2  1        
+   /                                                                  \   
+  | 39  O--O--O--O--O--O--O--O--O--O--O--O--X--O     O--O--X--O--O  39 |  
+  |                                                                    |  
+  | 38  O--O--O--O--O--O--O--O--O--O--O--O--X--O     O--O--X--O--O  38 |  
+  |                                                                    |  
+  | 37  O--O--O--O--O--O--O--X--O--O--O--O--O--O--O--O--O--O--O--O  37 |  
+  |                                                                    |  
+  | 36  O--O--O--O--O--O--O--O--O--O--O--O--X--O     O--O--X--O--O  36 |  
+  |                                                                    |  
+  | 35  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  35 |  
+  |                                                                    |  
+  | 34  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  34 |  
+  |                                                                    |  
+  | 33  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  33 |  
+  |                                                                    |  
+  | 32  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  32 |  
+  |                                                                    |  
+  | 31  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  31 |  
+  |                                                                    |  
+  | 30  O--O--O--O--O--O--O--O--O--O--O--O--X  X--O--O  O--O--O--O  30 |  
+  |                                                                    |  
+  | 29  O--O--O--O--O--O--O--O--O--O--O--O--X  X--O--O  O--O--O--O  29 |  
+  |                                                                    |  
+  | 28  O--O--O--O--O--O--O--O--O--O--O--O--X  X--O--O  O--O--O--O  28 |  
+  |                                                                    |  
+  | 27  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  O--O--O--O  27 |  
+  |                                                                    |  
+  | 26  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  O--O--O--O  26 |  
+  |                                                                    |  
+  | 25  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  O--O--O--O  25 |  
+  |                                                                    |  
+  | 24  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  O--O--O--O  24 |  
+  |                                                                    |  
+  | 23  O--O--O--O--O--O--O--X--O--O--O--O--O--O--O--O  O--O--O--O  23 |  
+m |                                                                    | m
+a | 22  O--O--O--O--O--O--O--X--O--O--O--O     O--O--O--O--O--O--O  22 | a
+i |                                                                    | i
+n | 21  O--O--O--O--O--O--O--O--O--O--O--O     O--O--O--O--O--O--O  21 | n
+ /                                                                      \ 
+b\  20  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O--O--O--O--O  20  /b
+o |                                                                    | o
+a | 19  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O--O--O--O--O  19 | a
+r |                                                                    | r
+d | 18  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O--O--O--O--O  18 | d
+  |                                                                    |  
+  | 17  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O--O--O--O--O  17 |  
+  |                                                                    |  
+  | 16  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O  O--O--O--O  16 |  
+  |                                                                    |  
+  | 15  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O  O--O--O--O  15 |  
+  |                                                                    |  
+  | 14  O--O--O--O--O--O--O--X--X--O--O--O     O--X--O  O--O--O--O  14 |  
+  |                                                                    |  
+  | 13  O--O--O--O--O--O--O--X--X--O--O--O     O--X--O  O--O--O--O  13 |  
+  |                                                                    |  
+  | 12  O--O--O--O--O     O--X--X--O--O--O     O--X--O  O--O--O--O  12 |  
+  |                                                                    |  
+  | 11  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O  O--O--O--O  11 |  
+  |                                                                    |  
+  | 10  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O  O--O--O--O  10 |  
+  |                                                                    |  
+  |  9  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O  O--O--O--O   9 |  
+  |                                                                    |  
+  |  8  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O--O--O--O--O   8 |  
+  |                                                                    |  
+  |  7  O--O--O--O--O--O--X--O--X--O--O--O     O--X--O--O--O--O--O   7 |  
+  |                                                                    |  
+  |  6  O--O--O--O--O--O--O--O--X--O--O--O     O--X--O--O--O--O--O   6 |  
+  |                                                                    |  
+  |  5  O--O--O--O--O--O--O     X--O--O--O     O--X--O--O--O--O--O   5 |  
+  |                                                                    |  
+  |  4  O--O--O--O--O--O--O     X--O--O--O     O--X--O--O--O--O--O   4 |  
+  |                                                                    |  
+  |  3  O--O--O--O--O--O--O     X--O--O--O     O--X--O--O--O--O--O   3 |  
+  |                                                                    |  
+  |  2  O--O--O--O--O--O--O     X--O--O--O     O--X--O--O--O--O--O   2 |  
+  |                                                                    |  
+  |  1  O--O--O--O--O--O--O     X--O--O--O     O--X--O--O--O--O--O   1 |  
+   \                                                                  /   
+       20 19 18 17 16 15 14 13 12 11 10  9  8  7  6  5  4  3  2  1        
+   /                                                                  \   
+  | 19  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  19 |  
+  |                                                                    |  
+  | 18  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  18 |  
+  |                                                                    |  
+  | 17  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  17 |  
+  |                                                                    |  
+  | 16  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  16 |  
+  |                                                                    |  
+  | 15  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  15 |  
+  |                                                                    |  
+  | 14  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O           O  14 |  
+  |                                                                    |  
+  | 13  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O           O  13 |  
+U |                                                                    | U
+S | 12  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O  12 | S
+B |                                                                    | B
+ /  11  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O     O--O  11  \ 
+b\                                                                      /b
+o | 10  O--O--O--O--X--O--O--O--O--O--O--O--O--O--O--O--X--O--O--O  10 | o
+a |                                                                    | a
+r |  9  O--O--O--O--X--O--O--O--O--O--O--O--O--O--O--X  X--O--O--O   9 | r
+d |                                                                    | d
+  |  8  O--O--O--O--X--O--O--O--O--O--O--O--O--O--O--X  X--O--O--O   8 |  
+  |                                                                    |  
+  |  7  O--O--O--O--X--O--O--O--O--O--X--O--O--O--O--O--X--O--O--O   7 |  
+  |                                                                    |  
+  |  6  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O     O--O   6 |  
+  |                                                                    |  
+  |  5  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O   5 |  
+  |                                                                    |  
+  |  4  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O           O   4 |  
+  |                                                                    |  
+  |  3  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O           O   3 |  
+  |                                                                    |  
+  |  2  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O   2 |  
+  |                                                                    |  
+   \ 1  O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O--O   1/   
+       20 19 18 17 16 15 14 13 12 11 10  9  8  7  6  5  4  3  2  1        
+
+Top (component side):
+
+        1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20        
+   /                                                                  \   
+  | 39  O  O  X-----VVV------X  O  O  O  O  O  O  O  O  O  O  O  O  39 |  
+  |                                                                    |  
+  | 38  O  O  X-----VVV------X  O  O  O  O  O  O  O  O  O  O  O  O  38 |  
+  |                                                                    |  
+  | 37  O  O  O  O  O  O  O  O  O  O  O  O  X  O  O  O  O  O  O  O  37 |  
+  |                                         |                          |  
+  | 36  O  O  X-----VVV------X  O  O  O  O  |  O  O  O  O  O  O  O  36 |  
+  |                                         |                          |  
+  | 35  O  O  O  O  O  O  O  O  O  O  O  O  |  O  O  O  O  O  O  O  35 |  
+  |                                         |                          |  
+  | 34  O  O  O  O  O  O  O  O  O  O  O  O  |  O  O  O  O  O  O  O  34 |  
+  |                                         |                          |  
+  | 33  O  O  O  O  O  O  O  O  O  O  O  O  |  O  O  O  O  O  O  O  33 |  
+  |                                         |                          |  
+  | 32  O  O  O  O  O  O  O  O  O  O  O  O  |  O  O  O  O  O  O  O  32 |  
+  |       +----+                            |                          |  
+  | 31  O |O  O| O  O  O  O  O  O  O  O  O  |  O  O  O  O  O  O  O  31 |  
+  |       |    |         +----+             |                          |  
+  | 30  O |O  X| O  O  O |X  X| O  O  O  O  |  O  O  O  O  O  O  O  30 |  
+  |       |    |         +----+             |                          |  
+  | 29  O |O  X| O  O  O |X  X| O  O  O  O  |  O  O  O  O  O  O  O  29 |  
+  |       |    |         +----+             |                          |  
+  | 28  O |O  X| O  O  O |X  X| O  O  O  O  |  O  O  O  O  O  O  O  28 |  
+  |       |    |         +----+             |                          |  
+  | 27  O |O  X| O  O  O  O  O  O  O  O  O  |  O  O  O  O  O  O  O  27 |  
+  |       |    |                            |                          |  
+  | 26  O |O  X| O  O  O  O  O  O  O  O  O  |  O  O  O  O  O  O  O  26 |  
+  |       |    |                            |                          |  
+  | 25  O |O  X| O  O  O  O  O  O  O  O  O  |  O  O  O  O  O  O  O  25 |  
+  |       |    |                            |                          |  
+  | 24  O |O  X| O  O  O  O  O  O  O  O  X  |  X  O  O  X  O  O  O  24 |  
+  |       |    |                         |  |   \       |              |  
+  | 23  O |O  X| O  O  O  O  O  O  O  O  |  X  O[]O  X  |  X  O  O  23 |  
+m |       |    |                         |       \      |  |           | m
+a | 22  O |O  O| O  O  O  O     O  O  O  |  X  O  X  O  |  |  X  O  22 | a
+i |       +----+                         |  |           |  |           | i
+n | 21  O  O  O  O  O  O  O     O  O  O  X  |  X  O  O  |  |  X  O  21 | n
+ /                    +-+---------------+-+ |  |        |  |            \ 
+b\  20  O  O  O  O  O |X| O     O  O  O |X| |  /  O  O  |  |  O  O  20  /b
+o |                   | |---------------| | /  \        |  |           | o
+a | 19  O  O  O  O  O |X| O     O  O  O |X| \  /  O  O  |  |  O  O  19 | a
+r |                   | |               | | /  \        |  |           | r
+d | 18  O  O  O  O  O |X| O     O  O  O |X| \  /  O  O  |  |  O  O  18 | d
+  |       +----+      | |               | | /  \        |  |           |  
+  | 17  O |O  O| O  O |X| O     O  O  O |X| \  /  O  O  |  |  O  O  17 |  
+  |       |    |      | |               | | /  |        |  |           |  
+  | 16  O |X  O| O  O |X| O     O  O  O |X| |  X  O  O  |  |  O  O  16 |  
+  |       |    |      | |               | | |           |  |           |  
+  | 15  O |X  O| O  O |X| O     O  O  O |X| |  O  O  O  |  |  O  O  15 |  
+  |       |    |      | |               | | |           |  |           |  
+  | 14  O |X  O| O  O |X| O     O  O  O |X| X  O  O  O  |  |  O  O  14 |  
+  |       |    |      | |               | |             |  |           |  
+  | 13  O |X  O| O  O |X| O     O  O  O |X| O  O  O  O  |  |  O  O  13 |  
+  |       |    |      | |               | |             |  |           |  
+  | 12  O |X  O| O  O |X| O     O  O  O |X| O  O     X  X  |  O  O  12 |  
+  |       |    |      | |               | |   +-+          |           |  
+  | 11  O |X  O| O  O |X|---------------|X| X |X| O  X  O  |  O  O  11 |  
+  |       |    |      | |               | |   +-+          |           |  
+  | 10  O |X  O| O  O |X|---------------|X| X |X|  O O  O  X  O  O  10 |  
+  |       |    |      | |               | |   +-+                      |  
+  |  9  O |X  O| O  O |X| O     O  O  O |X| O |X|  O O  O  O  O  O   9 |  
+  |       |    |      | |               | |   +-+                      |  
+  |  8  O |X  O| O  O |X| O     O  O  O |X| O |X|  O O  O  O  O  O   8 |  
+  |       |    |      | |               | |   +-+                      |  
+  |  7  O |X  O| O  O |X| O     O  O  O |X| O |X|  O O  O  O  O  O   7 |  
+  |       |    |      | |               | |   +-+                      |  
+  |  6  O |X  O| O  O |X| O     O  O  O |X| O |X|  O O  O  O  O  O   6 |  
+  |       |    |      | |               | |   +-+                      |  
+  |  5  O |X  O| O  O |X| O     O  O  O |X|    O  O  O  O  O  O  O   5 |  
+  |       |    |      | |               | |                            |  
+  |  4  O |X  O| O  O |X| O     O  O  O |X|    O  O  O  O  O  O  O   4 |  
+  |       |    |      | |               | |                            |  
+  |  3  O |X  O| O  O |X| O     O  O  O |X|    O  O  O  O  O  O  O   3 |  
+  |       |    |      | |               | |                            |  
+  |  2  O |X  O| O  O |X| O     O  O  O |X|    O  O  O  O  O  O  O   2 |  
+  |       |    |      | |---------------| |                            |  
+  |  1  O |X  O| O  O |X| O     O  O  O |X|    O  O  O  O  O  O  O   1 |  
+   \      |    |      +-+---------------+-+                           /   
+        1 |2  3| 4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20        
+   /      +----+                                                      \   
+  | 19  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  19 |  
+  |                                                                    |  
+  | 18  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  18 |  
+  |                                                                    |  
+  | 17  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  17 |  
+  |                                                                    |  
+  | 16  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  16 |  
+  |                                                                    |  
+  | 15  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  15 |  
+  |                                                                    |  
+  | 14  O           O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  14 |  
+  |                                                                    |  
+  | 13  O           O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  13 |  
+U |                                                                    | U
+S | 12  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  12 | S
+B |                                                                    | B
+ /  11  O  O     O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  11  \ 
+b\     -----------------+                                               /b
+o | 10  O  O  O  X  O  O| O  O  O  O  O  O  O  O  O  X  O  O  O  O  10 | o
+a |                     |                                              | a
+r |  9  O  O  O  X  X  O| O  O  O  O  O  O  O  O  O  X  O  O  O  O   9 | r
+d |                     |                                              | d
+  |  8  O  O  O  X  X  O| O  O  O  O  O  O  O  O  O  X  O  O  O  O   8 |  
+  |                     |                                              |  
+  |  7  O  O  O  X  O  O| O  O  O  X  O  O  O  O  O  X  O  O  O  O   7 |  
+  |    -----------------+                                              |  
+  |  6  O  O     O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O   6 |  
+  |                                                                    |  
+  |  5  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O   5 |  
+  |                                                                    |  
+  |  4  O           O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O   4 |  
+  |                                                                    |  
+  |  3  O           O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O   3 |  
+  |                                                                    |  
+  |  2  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O   2 |  
+  |                                                                    |  
+   \ 1  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O  O   1/   
+        1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20        
